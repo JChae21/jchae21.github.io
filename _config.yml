@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Junghoon Chae"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Junghoon Chae"
+description              : "Junghoon's web page"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Junghoon Chae"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am a Post Doctoral Research Associate in the Computer Science and Mathematics Division at the Oak Ridge National Laboratory"
+  location         : "Knoxville, TN, USA"
+  email            : "chaej@ornl.gov"
   uri              :
   bitbucket        :
   codepen          :
@@ -105,6 +105,8 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  scholar          : "citations?user=98-9pVkAAAAJ&hl=en"
+
 
 
 # Reading Files
