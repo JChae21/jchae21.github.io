@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 layout: archive
-excerpt: "Introduction to Karthik"
+excerpt: "Introduction to Junghoon Chae
 sitemap: false
 permalink: /about/
 author_profile: true
