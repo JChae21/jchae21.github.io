@@ -6,7 +6,9 @@ main:
     url: /publication/
   - title: "Project"
     url: /project/
-  #- title: "Quick-Start Guide"
+  - title: "Vita"
+    url: /vita/
+#- title: "Quick-Start Guide"
    # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
