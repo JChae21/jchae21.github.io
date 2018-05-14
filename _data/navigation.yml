@@ -2,10 +2,10 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Publication"
-    url: /publication/
-  - title: "Project"
-    url: /project/
+  - title: "Publications"
+    url: /publications/
+  - title: "Projects"
+    url: /projects/
   - title: "Vita"
     url: /vita/
 #- title: "Quick-Start Guide"
