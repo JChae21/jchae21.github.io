@@ -4,8 +4,8 @@ main:
     url: about/
   - title: "Publications"
     url: publications/
-  - title: "Projects"
-    url: projects/
+#   - title: "Projects"
+#     url: projects/
   - title: "Vita"
     url: vita/
 #- title: "Quick-Start Guide"
