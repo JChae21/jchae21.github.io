@@ -15,7 +15,7 @@
     "title": "Big Data Visualizations in Organizational Science",
     "venue": "Organizational Research Methods",
     "year": "2017",
-    "month" "7"
+    "month" "7",
     "type": "Journal",
     "url": "/assets/data/paper/tay_ng_malik_zhang_chae_ebert_ding_zhao_and_kern__2017__big_data_visualizations_in_organizational_science.pdf",
     "video": "",
@@ -88,7 +88,7 @@
     "title": "A Visual Analytics Framework for Microblog Data Analysis at Multiple Scales of Aggregation",
     "venue": "Computer Graphics Forum",
     "year": "2016",
-    "month" "6"
+    "month" "6",
     "type": "Journal",
     "url": "/assets/data/paper/multiscalevis.pdf",
     "video": "",
@@ -107,7 +107,6 @@
     "title": "Visual Analytics of Location-based Social Networks for Decision Support",
     "venue": "Purdue University",
     "year": "2016",
-    "month" ""
     "type": "Thesis",
     "url": "/assets/data/paper/theses.pdf",
     "video": "",
@@ -137,7 +136,7 @@
     "title": "ParkAnalyzer: Characterizing the Movement Patterns of Visitors",
     "venue": "VAST Challenge",
     "year": "2015",
-    "month" "10"
+    "month" "10",
     "type": "Workshop",
     "url": "/assets/data/paper/parkanalyzer.pdf",
     "video": "",
@@ -165,7 +164,7 @@
     "title": "Visual Analytics of Heterogeneous Data for Criminal Event Analysis",
     "venue": "VAST Challenge",
     "year": "2015",
-    "month" "10"
+    "month" "10",
     "type": "Workshop",
     "url": "/assets/data/paper/heterogeneous.pdf",
     "video": "",
