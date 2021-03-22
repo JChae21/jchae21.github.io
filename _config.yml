@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : ""
-  avatar           : "/assets/data/Junghoon_Chae_photo_color.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/data/Junghoon_Chae_photo_color_Crop.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a Research Scientist in the Computer Science and Mathematics Division at the Oak Ridge National Laboratory"
   location         : "Oak Ridge, TN, USA"
   email            : "chaej@ornl.gov"
