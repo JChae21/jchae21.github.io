@@ -1,0 +1,171 @@
+[
+  {
+    "authors": [
+      "Louis Tay", 
+      "Vincent Ng", 
+      "Abish Malik", 
+      "Jiawei Zhang", 
+      "Junghoon Chae", 
+      "David S Ebert", 
+      "Yiqing Ding", 
+      "Jieqiong Zhao", 
+      "Margaret Kern"
+    ],
+    "id": "bigdataorg",
+    "title": "Big Data Visualizations in Organizational Science",
+    "venue": "Organizational Research Methods",
+    "year": "2017",
+    "type": "Journal",
+    "url": "/assets/data/paper/tay_ng_malik_zhang_chae_ebert_ding_zhao_and_kern__2017__big_data_visualizations_in_organizational_science.pdf",
+    "video": "",
+    "keywords": [
+      "visual methods", 
+      "qualitative research", 
+      "quantitative research", 
+      "research design"
+    ]
+  },
+  {
+    "authors": [
+      "Junghoon Chae", 
+      "Shang Gao", 
+      "Arvind Ramanthan", 
+      "Chad Steed",
+      "Georgia D Tourassi"
+    ],
+    "id": "vis4classification",
+    "title": "Visualization for classification in deep neural networks",
+    "venue": "Workshop on Visual Analytics for Deep Learning",
+    "year": "2017",
+    "type": "Workshop",
+    "url": "/assets/data/paper/vadl_0101-paper.pdf",
+    "video": "",
+    "keywords": [
+      "Visualization", 
+      "classification", 
+      "deep neural networks"
+    ]
+  },
+  {
+    "authors": [
+      "Sungahn Ko", 
+      "Isaac Cho", 
+      "Shehzad Afzal", 
+      "Calvin Yau", 
+      "Junghoon Chae", 
+      "Abish Malik", 
+      "Kaethe Beck", 
+      "Yun Jang", 
+      "William Ribarsky", 
+      "David S Ebert"
+    ],
+    "id": "financialvis",
+    "title": "A Survey on Visual Analysis Approaches for Financial Data",
+    "venue": "Workshop on Visual Analytics for Deep Learning",
+    "year": "2016",
+    "month" "6",
+    "type": "Journal",
+    "url": "/assets/data/paper/financialvis.pdf",
+    "video": "",
+    "keywords": [
+      "Visualization", 
+      "Financiald data"
+    ]
+  },
+  {
+    "authors": [
+      "Jiawei Zhang", 
+      "Benjamin Ahlbrand", 
+      "Abish Malik", 
+      "Junghoon Chae", 
+      "Zhiyu Min", 
+      "Sungahn Ko", 
+      "David S Ebert"
+    ],
+    "id": "multiscalevis",
+    "title": "A Visual Analytics Framework for Microblog Data Analysis at Multiple Scales of Aggregation",
+    "venue": "Computer Graphics Forum",
+    "year": "2016",
+    "type": "Journal",
+    "url": "/assets/data/paper/multiscalevis.pdf",
+    "video": "",
+    "keywords": [
+      "Visual Analytics", 
+      "Social Media",
+      "Multiple Scales",
+      "Disaster Management"
+    ]
+  },  
+  {
+    "authors": [
+      "Junghoon Chae"
+    ],
+    "id": "theses",
+    "title": "Visual Analytics of Location-based Social Networks for Decision Support",
+    "venue": "Purdue University",
+    "year": "2016",
+    "type": "Thesis",
+    "url": "/assets/data/paper/theses.pdf",
+    "video": "",
+    "keywords": [
+      "Visual Analytics", 
+      "Social Media",
+      "Decision Support"
+    ]
+  },
+  {
+    "authors": [
+      "Jieqiong Zhao",
+      "Guizhen Wang",
+      "Junghoon Chae",
+      "Hanye Xu",
+      "Siqaio Chen",
+      "William Hatton",
+      "Sherry Towers",
+      "Mahesh Babu Gorantla",
+      "Benjamin Ahlbrand",
+      "Jiawei Zhang",
+      "Abish Malik",
+      "Sungahn Ko",
+      "David S Ebert"
+    ],
+    "id": "parkanalyzer",
+    "title": "ParkAnalyzer: Characterizing the Movement Patterns of Visitors",
+    "venue": "VAST Challenge",
+    "year": "2015",
+    "type": "Workshop",
+    "url": "/assets/data/paper/parkanalyzer.pdf",
+    "video": "",
+    "keywords": [
+      "Visual Analytics",
+      "Movement"
+    ]
+  },
+  {
+    "authors": [
+      "Junghoon Chae", 
+      "Guizhen Wang", 
+      "Benjamin Ahlbrand", 
+      "Mahesh Babu Gorantla", 
+      "Jiawei Zhang", 
+      "Siqaio Chen", 
+      "Hanye Xu", 
+      "Jieqiong Zhao",      
+      "William Hatton", 
+      "Abish Malik",
+      "Sungahn Ko",
+      "David S Ebert"
+    ],
+    "id": "heterogeneous",
+    "title": "Visual Analytics of Heterogeneous Data for Criminal Event Analysis",
+    "venue": "VAST Challenge",
+    "year": "2015",
+    "type": "Workshop",
+    "url": "/assets/data/paper/heterogeneous.pdf",
+    "video": "",
+    "keywords": [
+      "Visual Analytics", 
+      "Movement"
+    ]
+  }
+]

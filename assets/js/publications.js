@@ -27,7 +27,7 @@ BarChart.prototype.drawHorizontalBar = function (key, top) {
 
 $(document).ready(function () {
 
-    d3.json("/assets/data/publication.json", function (data) {
+    d3.json("/assets/data/publications.json", function (data) {
 
         // Empty the div
         d3.select("#publicationsViz").empty();
