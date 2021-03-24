@@ -27,10 +27,8 @@ BarChart.prototype.drawHorizontalBar = function (key, top) {
 
 $(document).ready(function () {
 
-    d3.json("/assets/data/publications.json", function (data) {
+    d3.json("/assets/data/publications.json").then(data=> {
         
-        console.log("TTT")
-
         // Empty the div
         d3.select("#publicationsViz").empty();
         d3.select("#publicationsList").empty();
@@ -71,24 +69,23 @@ $(document).ready(function () {
         // publicationsList.append("div").html("Karthik has <b>" + data.length + " peer-reviewed publications</b> with <b>" + (coauthors.length - 1) + " collaborators</b> since " + data[data.length-1].year + ".")
 
         publicationsList.append("div").html("<br/>");
-        publicationsList.append("div").html('<p>First author contributions are highlighted with a <span style="background-color:#f0f0f0; border:1px solid white;">gray background.</span></p>');
 
         // publications
         publicationsContent = publicationsList.append("div").attr("id", "publicationsContent");
 
-        publicationsContent.append("h3").text("Peer-Reviewed Journal Papers (" + journals.length + ")");
+        // publicationsContent.append("h3").text("Peer-Reviewed Journal Papers (" + journals.length + ")");
         journals.forEach(function (paper, i) {
             showPublication(publicationsContent, paper, i);
 
         });
 
-        publicationsContent.append("h3").html("Peer-Reviewed Conference Papers (" + conferences.length + ")");
+        // publicationsContent.append("h3").html("Peer-Reviewed Conference Papers (" + conferences.length + ")");
         conferences.forEach(function (paper, i) {
             showPublication(publicationsContent, paper, i);
         });
 
 
-        publicationsContent.append("h3").html("Featured Workshop Papers");
+        // publicationsContent.append("h3").html("Featured Workshop Papers");
         workshops.forEach(function (paper, i) {
             showPublication(publicationsContent, paper, i);
         });
@@ -117,7 +114,7 @@ function showPublication (publicationsContent, paper, i) {
         .style("background-size", "cover")
         .style("background-repeat", "no-repeat")
         .style("vertical-align", "top")
-        .style("background-image", "url(/assets/images/" + paper.name + ".png)");
+        .style("background-image", "url(/assets/data/images/" + paper.id + ".png)");
 
     var pubInfo = pub.append("div").style("width", "calc(100% - 110px)")
         .style("height", "100%")
