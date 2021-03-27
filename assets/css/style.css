@@ -1,5 +1,8 @@
 
-.content h3 { margin: 40px 0 15px -1px; border-bottom: 1px solid #ddd; font-size: 22px; color: #059; padding-bottom: 3px;}
+ul { padding-left: 0;}
+li { list-style: none; position: relative; margin: 8px 0 24px; line-height: 20px;}
+
+h3 { margin: 40px 0 15px -1px; border-bottom: 1px solid #ddd; font-size: 22px; color: #059; padding-bottom: 3px;}
 
 
 ul.items li { font-size: 15px; margin: 8px 0; line-height: 21px;}
