@@ -1,6 +1,39 @@
 [
   {
     "authors": [
+      "Junghoon Chae", "Byung Hoon Park", "Makoto Jones", "Merry Ward", "Jonathan Nebeker"
+    ],
+    "id": "bpmn",
+    "title": "Converting Clinical Pathways to BPM+ Standards: A Case Study in Stable Ischemic Heart Disease",
+    "venue": "IEEE International Symposium on Computer-Based Medical Systems (CBMS)",
+    "year": "2020",
+    "type": "Conference",
+    "pdf": "/assets/data/paper/bpmn.pdf"
+  },
+  {
+    "authors": [
+      "Junghoon Chae", "Debsindhu Bhowmik", "Heng Ma", "Arvind Ramanathan", "Chad A Steed"
+    ],
+    "id": "vis4md",
+    "title": "Visual Analytics for Deep Embeddings of Large Scale Molecular Dynamics Simulations",
+    "venue": "IEEE International Conference on Big Data (Big Data)",
+    "year": "2019",
+    "type": "Conference",
+    "pdf": "/assets/data/paper/vis4md.pdf"
+  },
+  {
+    "authors": [
+      "Junghoon Chae", "Catherine D Schuman", "Steven R Young", "J Travis Johnston", "Derek C Rose", "Robert M Patton", "Thomas E Potok"
+    ],
+    "id": "vis_menddle",
+    "title": "Visualization System for Evolutionary Neural Networks for Deep Learning",
+    "venue": "IEEE International Conference on Big Data (Big Data)",
+    "year": "2019",
+    "type": "Conference",
+    "pdf": "/assets/data/paper/vis_menddle.pdf"
+  },    
+  {
+    "authors": [
       "Junghoon Chae", "Chad A Steed", "John Goodall", "Steven Hahn"
     ],
     "id": "dynamic",
@@ -34,37 +67,16 @@
   },  
   {
     "authors": [
-      "Junghoon Chae", "Debsindhu Bhowmik", "Heng Ma", "Arvind Ramanathan", "Chad A Steed"
+      "Chad A Steed", "John R Goodall", "Junghoon Chae", "Artem Trofimov"
     ],
-    "id": "vis4md",
-    "title": "Visual Analytics for Deep Embeddings of Large Scale Molecular Dynamics Simulations",
-    "venue": "IEEE International Conference on Big Data (Big Data)",
-    "year": "2019",
-    "type": "Conference",
-    "pdf": "/assets/data/paper/vis4md.pdf"
-  },
-  {
-    "authors": [
-      "Junghoon Chae", "Catherine D Schuman", "Steven R Young", "J Travis Johnston", "Derek C Rose", "Robert M Patton", "Thomas E Potok"
-    ],
-    "id": "vis_menddle",
-    "title": "Visualization System for Evolutionary Neural Networks for Deep Learning",
-    "venue": "IEEE International Conference on Big Data (Big Data)",
-    "year": "2019",
-    "type": "Conference",
-    "pdf": "/assets/data/paper/vis_menddle.pdf"
-  },  
-  {
-    "authors": [
-      "Junghoon Chae", "Byung Hoon Park", "Makoto Jones", "Merry Ward", "Jonathan Nebeker"
-    ],
-    "id": "bpmn",
-    "title": "Converting Clinical Pathways to BPM+ Standards: A Case Study in Stable Ischemic Heart Disease",
-    "venue": "IEEE International Symposium on Computer-Based Medical Systems (CBMS)",
+    "id": "crossvis",
+    "title": "CrossVis: A visual analytics system for exploring heterogeneous multivariate data with applications to materials and climate sciences",
+    "venue": "Graphics and Visual Computing",
     "year": "2020",
-    "type": "Conference",
-    "pdf": "/assets/data/paper/bpmn.pdf"
-  },  
+    "type": "Journal",
+    "pdf": "/assets/data/paper/crossvis.pdf"
+  },
+
   {
     "authors": [
       "Matthias Lorenz", "Steven T King", "Nikolay Borodinov", "Chad A Steed", "Junghoon Chae", "Anton V Ievlev", "Olga S Ovchinnikova"
@@ -75,17 +87,6 @@
     "year": "2019",
     "type": "Journal",
     "pdf": "/assets/data/paper/vis_signaling_molecules.pdf"
-  },
-  {
-    "authors": [
-      "Chad A Steed", "John R Goodall", "Junghoon Chae", "Artem Trofimov"
-    ],
-    "id": "crossvis",
-    "title": "CrossVis: A visual analytics system for exploring heterogeneous multivariate data with applications to materials and climate sciences",
-    "venue": "Graphics and Visual Computing",
-    "year": "2020",
-    "type": "Journal",
-    "pdf": "/assets/data/paper/crossvis.pdf"
   },
   {
     "authors": [
