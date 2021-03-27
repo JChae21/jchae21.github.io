@@ -107,8 +107,8 @@ function showPublication (publicationsContent, paper, i) {
         .style("padding-top", "5px")
         .style("background", "white");
 
-    pub.append("div").style("width", "110px")
-        .style("height", "72px")
+    pub.append("div").style("width", "120px")
+        .style("height", "80px")
         .style("display", "inline-block")
         .style("border", "1.5px solid #222")
         .style("background-size", "cover")
