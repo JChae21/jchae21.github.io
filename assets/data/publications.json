@@ -1,6 +1,106 @@
 [
   {
     "authors": [
+      "Junghoon Chae", "Chad A Steed", "John Goodall", "Steven Hahn"
+    ],
+    "id": "dynamic",
+    "title": "Dynamic Color Mapping with a Multi-Scale Histogram: A Design Study with Physical Scientists",
+    "venue": "Electronic Imaging",
+    "year": "2019",
+    "type": "Conference",
+    "pdf": "/assets/data/paper/dynamic.pdf"
+  },
+  {
+    "authors": [
+      "Jeremy T Johnston", "Steven R Young", "Catherine D Schuman", "Junghoon Chae", "Don D March", "Robert M Patton", "Thomas E Potok"
+    ],
+    "id": "mlhpc",
+    "title": "Fine-Grained Exploitation of Mixed Precision for Faster CNN Training",
+    "venue": "IEEE/ACM Workshop on Machine Learning in High Performance Computing Environments (MLHPC)",
+    "year": "2019",
+    "type": "Conference",
+    "pdf": "/assets/data/paper/mlhpc.pdf"
+  },    
+  {
+    "authors": [
+      "Robert M Patton", "J Travis Johnston", "Steven R Young", "Catherine D Schuman", "Thomas E Potok", "Derek C Rose", "Seung-Hwan Lim", "Junghoon Chae", "Le Hou", "Shahira Abousamra", "Dimitris Samaras", "Joel Saltz"
+    ],
+    "id": "exascale",
+    "title": "Exascale Deep Learning to Accelerate Cancer Research",
+    "venue": "IEEE International Conference on Big Data (Big Data)",
+    "year": "2019",
+    "type": "Conference",
+    "pdf": "/assets/data/paper/exascale.pdf"
+  },  
+  {
+    "authors": [
+      "Junghoon Chae", "Debsindhu Bhowmik", "Heng Ma", "Arvind Ramanathan", "Chad A Steed"
+    ],
+    "id": "vis4md",
+    "title": "Visual Analytics for Deep Embeddings of Large Scale Molecular Dynamics Simulations",
+    "venue": "IEEE International Conference on Big Data (Big Data)",
+    "year": "2019",
+    "type": "Conference",
+    "pdf": "/assets/data/paper/vis4md.pdf"
+  },
+  {
+    "authors": [
+      "Junghoon Chae", "Catherine D Schuman", "Steven R Young", "J Travis Johnston", "Derek C Rose", "Robert M Patton", "Thomas E Potok"
+    ],
+    "id": "vis_menddle",
+    "title": "Visualization System for Evolutionary Neural Networks for Deep Learning",
+    "venue": "IEEE International Conference on Big Data (Big Data)",
+    "year": "2019",
+    "type": "Conference",
+    "pdf": "/assets/data/paper/vis_menddle.pdf"
+  },  
+  {
+    "authors": [
+      "Junghoon Chae", "Byung Hoon Park", "Makoto Jones", "Merry Ward", "Jonathan Nebeker"
+    ],
+    "id": "bpmn",
+    "title": "Converting Clinical Pathways to BPM+ Standards: A Case Study in Stable Ischemic Heart Disease",
+    "venue": "IEEE International Symposium on Computer-Based Medical Systems (CBMS)",
+    "year": "2020",
+    "type": "Conference",
+    "pdf": "/assets/data/paper/bpmn.pdf"
+  },  
+  {
+    "authors": [
+      "Matthias Lorenz", "Steven T King", "Nikolay Borodinov", "Chad A Steed", "Junghoon Chae", "Anton V Ievlev", "Olga S Ovchinnikova"
+    ],
+    "id": "vis_signaling_molecules",
+    "title": "Co-Registered Application of Matrix Assisted Laser Desorption/Ionization Mass Spectrometry and Time-of-Flight Secondary Ion Mass Spectrometry Images for Visualizing Signaling Molecules",
+    "venue": "Microscopy and Microanalysis",
+    "year": "2019",
+    "type": "Journal",
+    "pdf": "/assets/data/paper/vis_signaling_molecules.pdf"
+  },
+  {
+    "authors": [
+      "Chad A Steed", "John R Goodall", "Junghoon Chae", "Artem Trofimov"
+    ],
+    "id": "crossvis",
+    "title": "CrossVis: A visual analytics system for exploring heterogeneous multivariate data with applications to materials and climate sciences",
+    "venue": "Graphics and Visual Computing",
+    "year": "2020",
+    "type": "Journal",
+    "pdf": "/assets/data/paper/crossvis.pdf"
+  },
+  {
+    "authors": [
+      "Junghoon Chae", "Dennis Thom", "Harald Bosch", "Yun Jang", "Ross Maciejewski", "David S. Ebert", "Thomas Ertl"
+    ],
+    "id": "socialmedia",
+    "title": "Spatiotemporal Social Media Analytics for Abnormal Event Detection and Examination using Seasonal-Trend Decomposition",
+    "venue": "IEEE Conference on Visual Analytics Science and Technology (VAST)",
+    "year": "2012",
+    "type": "Conference",
+    "pdf": "/assets/data/paper/social_media_final.pdf",
+    "video": ""  
+  },  
+  {
+    "authors": [
       "Louis Tay", 
       "Vincent Ng", 
       "Abish Malik", 

@@ -183,7 +183,7 @@ function showPublication (publicationsContent, paper, i) {
         pubInfo.append("span").attr("class", "textlink").html('<a target="_blank" href="' + paper.pdf + '">[pdf]</a>  ').style("font-size", "12px");
     }
 
-    if (paper.video != "") {
+    if (typeof paper.video != 'undefined' && paper.video != "") {
         pubInfo.append("span").attr("class", "textlink").html('<a target="_blank" href="' + paper.video + '">[video]</a>  ').style("font-size", "12px");
     }
 
