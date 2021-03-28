@@ -1,6 +1,61 @@
 [
   {
     "authors": [
+      "Junghoon Chae", "Insoo Woo", "SungYe Kim", "Ross Maciejewski", "Fengqing Zhu", "Edward J Delp", "Carol J Boushey", "David S Ebert"
+    ],
+    "id": "tada",
+    "title": "Volume estimation using food specific shape templates in mobile image-based dietary assessment",
+    "venue": "Computational Imaging IX",
+    "year": "2011",
+    "type": "Conference",
+    "pdf": "/assets/data/paper/tada.pdf"
+  },  
+  {
+    "authors": [
+      "Sungahnn Ko", "Shehzad Afzal", "Simon Walton", "Yang Yang", "Junghoon Chae", "Abish Malik", "Yun Jang", "Min Chen", "David S Ebert"
+    ],
+    "id": "multivariate_network",
+    "title": "Analyzing High-dimensional Multivariate Network Links with Integrated Anomaly Detection, Highlighting and Exploration",
+    "venue": "IEEE Conference on Visual Analytics Science and Technology (VAST)",
+    "year": "2014",
+    "type": "Conference",
+    "pdf": "/assets/data/paper/multivariate_network.pdf"
+  },
+  {
+    "authors": [
+      "Junghoon Chae", "Jiawei Zhang", "Sungahn Ko", "Abish Malik", "Heather Connell", "David S Ebert"
+    ],
+    "id": "hoax",
+    "title": "Visual Analytics for Investigative Analysis of Hoax Distress Calls using Social Media",
+    "venue": "IEEE Symposium on Technologies for Homeland Security (HST)",
+    "year": "2016",
+    "type": "Conference",
+    "pdf": "/assets/data/paper/hoax.pdf"
+  },  
+  {
+    "authors": [
+      "Christina D Lee", "Junghoon Chae", "TusaRebecca E Schap", "Deborah A Kerr", "Edward J Delp", "David S Ebert", "Carol J Boushey"
+    ],
+    "id": "adolescents",
+    "title": "Comparison of known food weights with image-based portion-size automated estimation and adolescents' self-reported portion size",
+    "venue": "Journal of diabetes science and technology",
+    "year": "2012",
+    "type": "Journal",
+    "pdf": "/assets/data/paper/adolescents.pdf"
+  },
+  {
+    "authors": [
+      "Junghoon Chae", "Dennis Thom", "Yun Jang", "SungYe Kim", "Thomas Ertl", "David S Ebert"
+    ],
+    "id": "public_behavior",
+    "title": "Public behavior response analysis in disaster events utilizing visual analytics of microblog data",
+    "venue": "Computers & Graphics",
+    "year": "2014",
+    "type": "Journal",
+    "pdf": "/assets/data/paper/public_behavior.pdf"
+  },  
+  {
+    "authors": [
       "Junghoon Chae", "Byung Hoon Park", "Makoto Jones", "Merry Ward", "Jonathan Nebeker"
     ],
     "id": "bpmn",
@@ -27,9 +82,9 @@
     ],
     "id": "vis_menddle",
     "title": "Visualization System for Evolutionary Neural Networks for Deep Learning",
-    "venue": "IEEE International Conference on Big Data (Big Data)",
+    "venue": "International Workshop on Big Data Tools, Methods, and Use Cases for Innovative Scientific Discovery (BTSD) at IEEE International Conference on Big Data (Big Data)",
     "year": "2019",
-    "type": "Conference",
+    "type": "Workshop",
     "pdf": "/assets/data/paper/vis_menddle.pdf"
   },    
   {
@@ -51,7 +106,7 @@
     "title": "Fine-Grained Exploitation of Mixed Precision for Faster CNN Training",
     "venue": "IEEE/ACM Workshop on Machine Learning in High Performance Computing Environments (MLHPC)",
     "year": "2019",
-    "type": "Conference",
+    "type": "Workshop",
     "pdf": "/assets/data/paper/mlhpc.pdf"
   },    
   {
@@ -90,7 +145,7 @@
   },
   {
     "authors": [
-      "Junghoon Chae", "Dennis Thom", "Harald Bosch", "Yun Jang", "Ross Maciejewski", "David S. Ebert", "Thomas Ertl"
+      "Junghoon Chae", "Dennis Thom", "Harald Bosch", "Yun Jang", "Ross Maciejewski", "David S Ebert", "Thomas Ertl"
     ],
     "id": "socialmedia",
     "title": "Spatiotemporal Social Media Analytics for Abnormal Event Detection and Examination using Seasonal-Trend Decomposition",

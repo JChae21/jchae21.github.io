@@ -51,6 +51,8 @@ $(document).ready(function () {
         var conferences = [];
         var workshops = [];
 
+        data.sort((a,b)=>{ return b.year - a.year})
+
         data.forEach(function (datum) {
             coauthors = coauthors.concat(datum.authors);
             keywords = keywords.concat(datum.keywords);
@@ -77,19 +79,19 @@ $(document).ready(function () {
         // publications
         publicationsContent = publicationsList.append("div").attr("id", "publicationsContent");
 
-        publicationsContent.append("h3").text("Peer-Reviewed Journal Papers (" + journals.length + ")");
+        publicationsContent.append("h3").text("Journal Papers (" + journals.length + ")");
         journals.forEach(function (paper, i) {
             showPublication(publicationsContent, paper, i);
 
         });
 
-        publicationsContent.append("h3").html("Peer-Reviewed Conference Papers (" + conferences.length + ")");
+        publicationsContent.append("h3").html("Conference Papers (" + conferences.length + ")");
         conferences.forEach(function (paper, i) {
             showPublication(publicationsContent, paper, i);
         });
 
 
-        publicationsContent.append("h3").html("Featured Workshop Papers");
+        publicationsContent.append("h3").html("Featured Workshop Papers (" + workshops.length + ")");
         workshops.forEach(function (paper, i) {
             showPublication(publicationsContent, paper, i);
         });
