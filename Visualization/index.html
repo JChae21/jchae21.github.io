@@ -1,0 +1,190 @@
+<html lang="en">
+<head>
+  <title>Flow VIS for SUMO</title>
+  <link rel="icon" href="data:;base64,=">
+  <link href="./lib/fancytree/dist/skin-win8/ui.fancytree.min.css" rel="stylesheet">
+  <script src="lib/highcharts/Highcharts-9.0.1/highcharts.src.js"></script>
+  <script src="lib/highcharts/Highcharts-9.0.1/highcharts-more.src.js"></script>
+</head> 
+<style>
+body {
+  /*height: 100%;*/
+  /*width: 100%;*/
+  background: #000;
+  margin: 10px;
+  font-family: sans-serif;
+}
+#animation {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background: #000;
+}
+
+#slider-rate{
+  width: 200px;
+}
+
+#slider-time{
+  width: 1200px;
+  float: left;
+}
+
+#time-value{
+  font-size: 16px;
+  float: left;
+  width: 80px
+}
+
+#flow{
+  position: absolute;
+  /* left: 300px; */
+  top: 60px;
+  border: white 1px solid;
+  margin: 10px;
+}
+
+.control-top{
+  position: absolute;
+  top: 10px;
+  /* left: 300px; */
+  margin: 10px;
+  /*border: white 1px solid;  */
+  float: left;
+}
+
+.control-left{
+  position: absolute;
+  top: 60px;
+  /*border: white 1px solid*/
+}
+
+.plots-right{
+  position: absolute;
+  top: 60px;
+  left: 950px;
+  fill: white;
+}
+
+.plot{
+  margin-bottom: 10px;
+}
+
+.y-axis-2 path{
+  stroke: #c51b8a;
+}
+
+.grid-lines line {
+  stroke: gray;
+  stroke-opacity: 0.5;
+  stroke-dasharray: 5,5;
+}
+
+#container {
+    height: 600px;
+    overflow: auto;
+}
+
+#boxplot{
+  height: 2800px;
+}
+
+.highcharts-boxplot-series .highcharts-point {
+  stroke-width: 2px;
+}
+
+.highcharts-boxplot-box {
+  fill: #F0F0E0;
+}
+
+.highcharts-boxplot-median {
+  stroke: #0C5DA5;
+  stroke-width: 3px;
+}
+
+.highcharts-boxplot-stem {
+  stroke: #A63400;
+  stroke-dasharray: 1, 2;
+  stroke-width: 1px;
+}
+
+.highcharts-boxplot-whisker {
+  stroke: #3D9200;
+  stroke-width: 3px;
+}
+
+/* 
+.highcharts-figure, .highcharts-data-table table {
+    min-width: 310px; 
+    max-width: 700px;
+    margin: 1em auto;
+}
+
+.highcharts-data-table table {
+    font-family: Verdana, sans-serif;
+    border-collapse: collapse;
+    border: 1px solid #EBEBEB;
+    margin: 10px auto;
+    text-align: center;
+    width: 100%;
+    max-width: 500px;
+}
+.highcharts-data-table caption {
+    padding: 1em 0;
+    font-size: 1.2em;
+    color: #555;
+}
+.highcharts-data-table th {
+	font-weight: 600;
+    padding: 0.5em;
+}
+.highcharts-data-table td, .highcharts-data-table th, .highcharts-data-table caption {
+    padding: 0.5em;
+}
+.highcharts-data-table thead tr, .highcharts-data-table tr:nth-child(even) {
+    background: #bd3c3c;
+}
+.highcharts-data-table tr:hover {
+    background: #f1f7ff;
+} */
+
+
+</style>
+
+<body>
+  <div class="control-top" style="color:white"> 
+    <div id='color-legend'></div>
+    <canvas id="color-canvas" width="256" height="1"></canvas>
+    <!-- <div id="time-value"> Time: 0 </div> 
+    <input id="slider-time" type="range" min="0" max="100" step="1" value="0" class="slider" oninput="timeUpdate(value)"> -->
+  </div>
+
+  <!-- <canvas id="flow" width="500" height="1300"></canvas> -->
+  <canvas id="flow" width="900" height="1000"></canvas>
+  <!-- <img src="./data/DFW_With_Ids.svg"/> -->
+  <!-- <div class="control-left" style="color:white"> Rate:
+    <input type="range" min="0" max="190" step="10" value="100" class="slider" id="slider-rate" oninput="rateUpdate(value)">
+    <div id="agents"> </div>
+  </div> -->
+
+  <div class="plots-right" style="color:white">
+    <div class="plot" id="avg-speed-plot"> </div>
+    <div class="plot" id="stop-plot"> </div>
+    <div class="plot" id="peak-speed-plot"> </div>
+    <div class="plot" id="count-plot"> </div>
+    <div class="plot" id="waiting-time-plot"> </div>
+    <div class="plot" id="multi-scale-plot"> </div>
+    <div id="container">
+      <div id='boxplot'></div>
+    </div>
+  </div>  
+
+  <script src="lib/jquery-3.4.1.min.js"></script>
+  <script src="lib/d3.v5/d3.min.js"></script>
+  <script src="lib/fancytree/dist/jquery.fancytree-all-deps.min.js"></script>
+  <script src="flow.js"></script>
+  <script src="linechart.js"></script>
+  <script src="multi_scale_line_graph.js"></script>
+  <script src=legend.js></script>
+</body>
+</html>
