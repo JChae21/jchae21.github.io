@@ -115,7 +115,7 @@ function showPublication (publicationsContent, paper, i) {
         .style("padding-top", "5px")
         .style("background", "white");
 
-    pub.append("a").attr("href", paper.pdf).attr("target", "_blank").append("div").style("width", "120px")
+    pub.append("a").attr("href", paper.url).attr("target", "_blank").append("div").style("width", "120px")
         .style("height", "80px")
         .style("display", "inline-block")
         .style("border", "1.5px solid #222")
@@ -191,6 +191,10 @@ function showPublication (publicationsContent, paper, i) {
     if (paper.pdf != "") {
         pubInfo.append("span").attr("class", "textlink").html('<a target="_blank" href="' + paper.pdf + '">[pdf]</a>').style("font-size", "12px");
     }
+
+    if (paper.url != "") {
+        pubInfo.append("span").attr("class", "textlink").html('<a target="_blank" href="' + paper.url + '">[doi]</a>').style("font-size", "12px");
+    }    
 
     if (paper.video != "" && typeof paper.video != 'undefined') {
         pubInfo.append("span").attr("class", "textlink").html('<a target="_blank" href="' + paper.video + '">[video]</a>  ').style("font-size", "12px");
