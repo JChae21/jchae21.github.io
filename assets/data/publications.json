@@ -1,6 +1,18 @@
 [
   {
     "authors": [
+      "Juliette Ugirumurera", "Joseph Severino", "Karen Ficenec", "Yanbo Ge", "Qichao Wang", "Lindy Williams", "Junghoon Chae", "Monte Lunacek", "Caleb Phillips"
+    ],
+    "id": "athena",
+    "title": "A modeling framework for designing and evaluating curbside traffic management policies at Dallas-Fort Worth International Airport",
+    "venue": "Transportation Research Part A: Policy and Practice",
+    "year": "2021",
+    "type": "Journal",
+    "pdf": "",
+    "url": "https://doi.org/10.1016/j.tra.2021.07.013"
+  },  
+  {
+    "authors": [
       "Junghoon Chae", "Insoo Woo", "SungYe Kim", "Ross Maciejewski", "Fengqing Zhu", "Edward J Delp", "Carol J Boushey", "David S Ebert"
     ],
     "id": "tada",
@@ -8,7 +20,8 @@
     "venue": "Computational Imaging IX",
     "year": "2011",
     "type": "Conference",
-    "pdf": "/assets/data/paper/tada.pdf"
+    "pdf": "/assets/data/paper/tada.pdf",
+    "url": ""
   },  
   {
     "authors": [
@@ -19,7 +32,8 @@
     "venue": "IEEE Conference on Visual Analytics Science and Technology (VAST)",
     "year": "2014",
     "type": "Conference",
-    "pdf": "/assets/data/paper/multivariate_network.pdf"
+    "pdf": "/assets/data/paper/multivariate_network.pdf",
+    "url": ""
   },
   {
     "authors": [
@@ -30,7 +44,8 @@
     "venue": "IEEE Symposium on Technologies for Homeland Security (HST)",
     "year": "2016",
     "type": "Conference",
-    "pdf": "/assets/data/paper/hoax.pdf"
+    "pdf": "/assets/data/paper/hoax.pdf",
+    "url": ""
   },  
   {
     "authors": [
@@ -41,7 +56,8 @@
     "venue": "Journal of diabetes science and technology",
     "year": "2012",
     "type": "Journal",
-    "pdf": "/assets/data/paper/adolescents.pdf"
+    "pdf": "/assets/data/paper/adolescents.pdf",
+    "url": ""
   },
   {
     "authors": [
@@ -52,7 +68,8 @@
     "venue": "Computers & Graphics",
     "year": "2014",
     "type": "Journal",
-    "pdf": "/assets/data/paper/public_behavior.pdf"
+    "pdf": "/assets/data/paper/public_behavior.pdf",
+    "url": ""
   },  
   {
     "authors": [
@@ -63,7 +80,8 @@
     "venue": "IEEE International Symposium on Computer-Based Medical Systems (CBMS)",
     "year": "2020",
     "type": "Conference",
-    "pdf": "/assets/data/paper/bpmn.pdf"
+    "pdf": "/assets/data/paper/bpmn.pdf",
+    "url": ""
   },
   {
     "authors": [
@@ -74,7 +92,8 @@
     "venue": "IEEE International Conference on Big Data (Big Data)",
     "year": "2019",
     "type": "Conference",
-    "pdf": "/assets/data/paper/vis4md.pdf"
+    "pdf": "/assets/data/paper/vis4md.pdf",
+    "url": ""
   },
   {
     "authors": [
@@ -85,7 +104,8 @@
     "venue": "International Workshop on Big Data Tools, Methods, and Use Cases for Innovative Scientific Discovery (BTSD) at IEEE International Conference on Big Data (Big Data)",
     "year": "2019",
     "type": "Workshop",
-    "pdf": "/assets/data/paper/vis_menddle.pdf"
+    "pdf": "/assets/data/paper/vis_menddle.pdf",
+    "url": ""
   },    
   {
     "authors": [
@@ -96,7 +116,8 @@
     "venue": "Electronic Imaging",
     "year": "2019",
     "type": "Conference",
-    "pdf": "/assets/data/paper/dynamic.pdf"
+    "pdf": "/assets/data/paper/dynamic.pdf",
+    "url": ""
   },
   {
     "authors": [
@@ -107,7 +128,8 @@
     "venue": "IEEE/ACM Workshop on Machine Learning in High Performance Computing Environments (MLHPC)",
     "year": "2019",
     "type": "Workshop",
-    "pdf": "/assets/data/paper/mlhpc.pdf"
+    "pdf": "/assets/data/paper/mlhpc.pdf",
+    "url": ""
   },    
   {
     "authors": [
@@ -118,7 +140,8 @@
     "venue": "IEEE International Conference on Big Data (Big Data)",
     "year": "2019",
     "type": "Conference",
-    "pdf": "/assets/data/paper/exascale.pdf"
+    "pdf": "/assets/data/paper/exascale.pdf",
+    "url": ""
   },  
   {
     "authors": [
@@ -129,7 +152,8 @@
     "venue": "Graphics and Visual Computing",
     "year": "2020",
     "type": "Journal",
-    "pdf": "/assets/data/paper/crossvis.pdf"
+    "pdf": "/assets/data/paper/crossvis.pdf",
+    "url": ""
   },
 
   {
@@ -141,7 +165,8 @@
     "venue": "Microscopy and Microanalysis",
     "year": "2019",
     "type": "Journal",
-    "pdf": "/assets/data/paper/vis_signaling_molecules.pdf"
+    "pdf": "/assets/data/paper/vis_signaling_molecules.pdf",
+    "url": ""
   },
   {
     "authors": [
@@ -153,7 +178,8 @@
     "year": "2012",
     "type": "Conference",
     "pdf": "/assets/data/paper/social_media_final.pdf",
-    "video": ""  
+    "video": "",
+    "url": ""
   },  
   {
     "authors": [
@@ -179,7 +205,8 @@
       "qualitative research", 
       "quantitative research", 
       "research design"
-    ]
+    ],
+    "url": ""
   },
   {
     "authors": [
@@ -200,7 +227,8 @@
       "Visualization", 
       "classification", 
       "deep neural networks"
-    ]
+    ],
+    "url": ""
   },
   {
     "authors": [
@@ -225,7 +253,8 @@
     "keywords": [
       "Visualization", 
       "Financiald data"
-    ]
+    ],
+    "url": ""
   },
   {
     "authors": [
@@ -249,7 +278,8 @@
       "Social Media",
       "Multiple Scales",
       "Disaster Management"
-    ]
+    ],
+    "url": ""
   },  
   {
     "authors": [
@@ -266,7 +296,8 @@
       "Visual Analytics", 
       "Social Media",
       "Decision Support"
-    ]
+    ],
+    "url": ""
   },
   {
     "authors": [
@@ -294,7 +325,8 @@
     "keywords": [
       "Visual Analytics",
       "Movement"
-    ]
+    ],
+    "url": ""
   },
   {
     "authors": [
@@ -321,6 +353,7 @@
     "keywords": [
       "Visual Analytics", 
       "Movement"
-    ]
+    ],
+    "url": ""
   }
 ]
