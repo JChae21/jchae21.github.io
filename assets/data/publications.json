@@ -1,7 +1,43 @@
 [
   {
     "authors": [
-      "Minsu Kim", "Byung Hoon Park", "Ozgur Ozmen", "Everett Rush", "Junghoon Chae", "Makoto Jones", "Randall W. Rupper", "Jeffrey C. Humpherys", "Merry Ward", "Jonathan Nebeker" 
+      "Junghoon Chae", "Byung H Park", "Minsu Kim", "Everett Rush", "Ozgur Ozmen", "Makoto Jones", "Merry Ward", "Jonathan Nebeker"
+    ],
+    "id": "cpvis",
+    "title": "CPViz: Visualizing Clinical Pathways Represented in Higher-Order Networks (To appear)",
+    "venue": "IS&T Int’l. Symp. on Electronic Imaging: Visualization and Data Analysis",
+    "year": "2023",
+    "type": "Conference",
+    "pdf": "/assets/data/paper/cpvis.pdf",
+    "url": ""
+  },  
+  {
+    "authors": [
+      "Seung-Hwan Lim", "Junghoon Chae", "Guojing Cong", "Drahomira Herrmannova", "Robert M Patton", "Ramakrishnan Kannan", "Thomas E Potok"
+    ],
+    "id": "knowledge_graph",
+    "title": "Visual Understanding of COVID-19 Knowledge Graph for Predictive Analysis",
+    "venue": "IEEE International Conference on Big Data (Big Data)",
+    "year": "2021",
+    "type": "Conference",
+    "pdf": "/assets/data/paper/knowledge_graph.pdf",
+    "url": "https://ieeexplore.ieee.org/abstract/document/9672055"
+  },
+  {
+    "authors": [
+      "Ayush Bhardwaj", "Junghoon Chae", "Richard Huynh Noeske", "Jin Ryong Kim"
+    ],
+    "id": "tangible",
+    "title": "TangibleData: Interactive Data Visualization with Mid-Air Haptics",
+    "venue": "ACM Symposium on Virtual Reality Software and Technology (VRST)",
+    "year": "2021",
+    "type": "Conference",
+    "pdf": "/assets/data/paper/tangible.pdf",
+    "url": "https://dl.acm.org/doi/fullHtml/10.1145/3489849.3489890"
+  },
+  {
+    "authors": [
+      "Minsu Kim", "Byung H Park", "Ozgur Ozmen", "Everett Rush", "Junghoon Chae", "Makoto Jones", "Randall W. Rupper", "Jeffrey C. Humpherys", "Merry Ward", "Jonathan Nebeker" 
     ],
     "id": "isbra",
     "title": "Data-Driven Inference of Clinical Pathway Components for Identifying Basic Care Patterns from Electronic Health Records",
@@ -10,18 +46,6 @@
     "type": "Conference",
     "pdf": "/assets/data/paper/ISBRA_2021_Pathway_Components.pdf",
     "url": ""
-  },
-  {
-    "authors": [
-      "Supriya Chinthavali", "Sangkeun Lee", "Michael Starke", "Junghoon Chae", "Varisara Tansakul", "Jeff Munk", "Helia Zandi", "Teja Kuruganti", "Heather Buckberry", "Mahabir Bhandari", "James Leverette†" 
-    ],
-    "id": "connected",
-    "title": "Data Analysis Approach for Large Data Volumes in a Connected Community",
-    "venue": "IEEE Power & Energy Society Innovative Smart Grid Technologies Conference",
-    "year": "2021",
-    "type": "Conference",
-    "pdf": "/assets/data/paper/connected.pdf",
-    "url": "https://www.osti.gov/servlets/purl/1783001"
   },
   {
     "authors": [
@@ -121,7 +145,7 @@
   },  
   {
     "authors": [
-      "Junghoon Chae", "Byung Hoon Park", "Makoto Jones", "Merry Ward", "Jonathan Nebeker"
+      "Junghoon Chae", "Byung H Park", "Makoto Jones", "Merry Ward", "Jonathan Nebeker"
     ],
     "id": "bpmn",
     "title": "Converting Clinical Pathways to BPM+ Standards: A Case Study in Stable Ischemic Heart Disease",
@@ -161,11 +185,11 @@
     ],
     "id": "dynamic",
     "title": "Dynamic Color Mapping with a Multi-Scale Histogram: A Design Study with Physical Scientists",
-    "venue": "Electronic Imaging",
+    "venue": "IS&T Int’l. Symp. on Electronic Imaging: Visualization and Data Analysis",
     "year": "2019",
     "type": "Conference",
     "pdf": "/assets/data/paper/dynamic.pdf",
-    "url": ""
+    "url": "https://library.imaging.org/ei/articles/31/1/art00006"
   },
   {
     "authors": [
