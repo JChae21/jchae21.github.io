@@ -1,5 +1,17 @@
 [
-{
+  {
+    "authors": [
+      "Junghoon Chae", "Yuchen Cui", "Yun Jang", "Guizhen Wang", "Abish Malik", "David S. Ebert"
+    ],
+    "id": "trajectory_eurova_2015",
+    "title": "Trajectory-based Visual Analytics for Anomalous Human Movement Analysis using Social Media",
+    "venue": "EuroVis Workshop on Visual Analytics",
+    "year": "2015",
+    "type": "Workshop",
+    "pdf": "/assets/data/paper/trajectory_eurova_2015.pdf",
+    "url": ""
+  },  
+  {
     "authors": [
       "Supriya Chinthavali", "Sangkeun Lee", "Michael Starke", "Junghoon Chae", "Varisara Tansakul", "Jeff Munk", "Helia Zandi", "Teja Kuruganti", "Heather Buckberry", "Mahabir Bhandari", "James Leverette†" 
     ],
