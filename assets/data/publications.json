@@ -1,6 +1,30 @@
 [
   {
     "authors": [
+      "Minsu Kim", "Byung Hoon Park", "Ozgur Ozmen", "Everett Rush", "Junghoon Chae", "Makoto Jones", "Randall W. Rupper", "Jeffrey C. Humpherys", "Merry Ward", "Jonathan Nebeker" 
+    ],
+    "id": "isbra",
+    "title": "Data-Driven Inference of Clinical Pathway Components for Identifying Basic Care Patterns from Electronic Health Records",
+    "venue": "The International Symposium on Bioinformatics Research and Applications (ISBRA)",
+    "year": "2021",
+    "type": "Conference",
+    "pdf": "/assets/data/paper/ISBRA_2021_Pathway_Components.pdf",
+    "url": ""
+  },
+  {
+    "authors": [
+      "Supriya Chinthavali", "Sangkeun Lee", "Michael Starke", "Junghoon Chae", "Varisara Tansakul", "Jeff Munk", "Helia Zandi", "Teja Kuruganti", "Heather Buckberry", "Mahabir Bhandari", "James Leverette†" 
+    ],
+    "id": "connected",
+    "title": "Data Analysis Approach for Large Data Volumes in a Connected Community",
+    "venue": "IEEE Power & Energy Society Innovative Smart Grid Technologies Conference",
+    "year": "2021",
+    "type": "Conference",
+    "pdf": "/assets/data/paper/connected.pdf",
+    "url": "https://www.osti.gov/servlets/purl/1783001"
+  },
+  {
+    "authors": [
       "Junghoon Chae", "Yuchen Cui", "Yun Jang", "Guizhen Wang", "Abish Malik", "David S. Ebert"
     ],
     "id": "trajectory_eurova_2015",
@@ -22,7 +46,7 @@
     "type": "Conference",
     "pdf": "/assets/data/paper/connected.pdf",
     "url": "https://www.osti.gov/servlets/purl/1783001"
-  },  
+  },
   {
     "authors": [
       "Juliette Ugirumurera", "Joseph Severino", "Karen Ficenec", "Yanbo Ge", "Qichao Wang", "Lindy Williams", "Junghoon Chae", "Monte Lunacek", "Caleb Phillips"
